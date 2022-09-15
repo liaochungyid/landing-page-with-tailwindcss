@@ -2,6 +2,9 @@
 
 The project is [2022 Tailwind Crash Course on YouTube](https://www.youtube.com/watch?v=dFgzHOX84xQ).
 
+
+## [Live Demo](https://liaochungyid.github.io/landing-page-with-tailwindcss/index.html)
+
 ## Final Result in Desktop
 ![Final Result in Desktop](/img/final_desktop.png?raw=true)
 
