@@ -3,10 +3,10 @@
 The project is [2022 Tailwind Crash Course on YouTube](https://www.youtube.com/watch?v=dFgzHOX84xQ).
 
 ## Final Result in Desktop
-![Alt text](/img/final_desktop.png?raw=true)
+![Final Result in Desktop](/img/final_desktop.png?raw=true)
 
 ## Final Result in Mobile
-![Alt text](/img/final_mobile.png?raw=true)
+<img src="/img/final_mobile.png?raw=true" alt="Final Result in Mobile" width="425"/>
 
 # Usage
 
